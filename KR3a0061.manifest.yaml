@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR3a0061/v1
+canonical_location: https://kanripo.org/bkk/KR3a0061/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 政經
+  date: '2015-08-24 22:59:19.761739'
+  source:
+    repository: kanripo
+    path: KR3a0061
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3a0061_000.yaml, hash: 'sha256:2afe6de8e6186234d6d63f321cf4cc0c7a23ffdd92bc6db305e417f6c6b516cf'}
+  - {seq: 1, filename: KR3a0061_001.yaml, hash: 'sha256:fb29af5635006937276bd6d26a6376324cfb815a84c622a4f1b1b66f54c75c20'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3a0061_000.markers.yaml, hash: 'sha256:31fe52f7ae49aaa7d90ff72c3d3640537ecff477dddf9bfafef82b78e6df2427'}
+  - {seq: 1, role: markers, filename: assets/KR3a0061_001.markers.yaml, hash: 'sha256:f29582de66825549340ee56ba93f0aef90c44d204b82ac4209b5ebca3d925b22'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3a0061_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 371
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3a0061_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 16051
+  label: 政經
+  type: section
+  level: 1
+hash: sha256:c0ccd6304bde4d1f4684aa18793edc1a06ff94eda9bae354bda196c03a01bd04
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
