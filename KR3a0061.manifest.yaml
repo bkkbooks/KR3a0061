@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3a0061_000.yaml, hash: 'sha256:7908f4a4d201224bad7daa0c044d8b396cb83436e8cdc5f19da1b69dcb9aed2c'}
   - {seq: 1, filename: KR3a0061_001.yaml, hash: 'sha256:4dc10ea9e71e15b2fbc520684391c184aeea5320025ba1059c1675a398584dec'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0061_000.markers.yaml, hash: 'sha256:6bed1283d677b5ed83604eac4b33c057948d36ff4a603a6a3e057066b91b1093'}
-  - {seq: 1, role: markers, filename: assets/KR3a0061_001.markers.yaml, hash: 'sha256:72bfb1e4c2c674def7cfcde997619cf41358234bff2102bf76e5da2c56bae67e'}
+  - {seq: 0, role: markers, filename: assets/KR3a0061_000.markers.yaml, hash: 'sha256:66c60385ed0af47eae8dff329722b54a56be0766648957293c64fc911f3e9ca8'}
+  - {seq: 1, role: markers, filename: assets/KR3a0061_001.markers.yaml, hash: 'sha256:5c09f9c9a9559370ee72853aac436fd52fb882c4a39dcad01a73044e31f7efd0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 政經
   type: section
   level: 1
-hash: sha256:7f70bd8245f725193a8fa4f1e108459d03c78d74354a13e56d8cfa5aa4fa3bbb
+hash: sha256:8ba1fb15e927ac665eb3ef2265a6dae6b82fe687f63b923efedaf8e75e928c03
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
